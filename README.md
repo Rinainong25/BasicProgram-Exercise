@@ -1,4 +1,4 @@
 # BasicProgram-Exercise
-Name : Rina Kurniawati
-student number: 20230040052
+Name : Siti Nur Kamila 
+student number: 20230040061
 study program: infomatic engineering 
